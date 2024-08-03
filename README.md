@@ -45,5 +45,7 @@ Detailed Metrics:
 Outlet Type:
 Purpose: To provide detailed insights into sales, item count, average sales, average rating, and item visibility for different outlet types.
 Features: Table listing metrics for Supermarket Type1, Grocery Store, Supermarket Type2, and Supermarket Type3.
+
+
 Conclusion:
 The Real-Time Sales Data Analysis Dashboard provides an in-depth analysis of online sales performance, enabling stakeholders to make data-driven decisions. The use of interactive filters and various visualization types enhances the user experience and allows for detailed exploration of sales metrics. The project demonstrates proficiency in data analysis tools and techniques, offering valuable insights into sales trends and customer preferences.
